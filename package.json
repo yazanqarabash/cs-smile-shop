@@ -20,7 +20,8 @@
     "db": "json-server --watch db.json --port 3030",
     "start:dev": "react-scripts start",
     "start": "run-p db start:dev",
-    "build": "react-scripts build",
+    "start:build": "react-scripts build",
+    "build": "run-p db start:build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
