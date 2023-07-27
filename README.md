@@ -2,6 +2,16 @@
 
 Simple e-commerce project that displays products from API. User can choose a product, add it to cart, add payment information and details then confirm payment.
 
+# Initial Setup
+
+* Clone and then go to project folder `cd /cs-smile-shop`
+
+* Run `npm i`
+
+* Rename ".env.starter" file to ".env"
+
+* Run `npm start` runs the application in development mode and starts the API
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -16,6 +26,7 @@ You may also see any lint errors in the console.
 
 ### `npm test`
 
+Tests are not set up yet!
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
