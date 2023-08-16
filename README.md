@@ -4,7 +4,7 @@ Simple e-commerce project that displays products from API. User can choose a pro
 
 # Initial Setup
 
-* Clone and then go to project folder `cd /cs-smile-shop`
+* Clone repo and then go to project folder `cd /cs-smile-shop`
 
 * Run `npm i`
 
