@@ -1,3 +1,6 @@
+# Live Site
+### Start the json server locally for now to access data in live version!
+Live API coming soon!
 # Introduction
 
 Simple e-commerce project that displays products from API. User can choose a product, add it to cart, add payment information and details then confirm payment.
